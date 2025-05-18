@@ -1,0 +1,7 @@
+Best-First Search is a graph traversal algorithm that explores a graph by expanding the most promising node chosen according to a specified rule. It combines the advantages of both Breadth-First Search (BFS) and Greedy Search, using a priority queue to decide which node to visit next based on a heuristic function.
+
+Types of Best-First Search
+
+Greedy Best-First Search: Uses only h(n) (heuristic) to make decisions.
+
+A Search*: An advanced version that uses both the cost so far g(n) and the estimated cost to the goal h(n) as f(n) = g(n) + h(n).
