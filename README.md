@@ -18,7 +18,7 @@ The course covers:
 - Basic Machine Learning Concepts
 - Hands-on Python implementations and real-world problem solving
 [![Kaggle](https://img.shields.io/badge/Show-Full-Code-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
-## 📁 Contents
+## 📁 Contents [![Kaggle](https://img.shields.io/badge/Show-Full-Code-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
 - 📜 AI Algorithms (Python)
 - 📝 Handwritten Notes (Images/PDF)
 - 📚 Assignments and Practice Problems
