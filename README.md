@@ -17,9 +17,9 @@ The course covers:
 - Knowledge Representation & Reasoning
 - Basic Machine Learning Concepts
 - Hands-on Python implementations and real-world problem solving
-[![Kaggle](https://img.shields.io/badge/See%20Full%20Code-2F4F4F?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
+[![Kaggle](https://img.shields.io/badge/See%20Full%20Code-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
 
-## 📁 Contents [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-006400?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
+## 📁 Contents [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-2F4F4F?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
 
 - 📜 AI Algorithms (Python)
 - 📝 Handwritten Notes (Images/PDF)
