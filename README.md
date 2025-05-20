@@ -36,3 +36,6 @@ git clone https://github.com/Habibur-02/Artificial-Intelligence-CSE-3207-RUET.gi
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Habibur-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibur02/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-8A2BE2?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-DC143C?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
+
