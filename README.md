@@ -26,3 +26,9 @@ Clone this repository and explore the Python code for classic AI algorithms. Use
 
 ```bash
 git clone https://github.com/Habibur-02/Artificial-Intelligence-CSE-3207-RUET.git
+```
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Habibur-02&show_icons=true&theme=radical)
+
+## 📬 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Habibur-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibur02/)
