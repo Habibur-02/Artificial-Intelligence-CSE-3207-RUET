@@ -4,6 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Habibur-02/Artificial-Intelligence-CSE-3207-RUET?style=social)](https://github.com/Habibur-02/Artificial-Intelligence-CSE-3207-RUET/stargazers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibur02/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/habibur02)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
 
 # 🤖 Artificial Intelligence – CSE 3207 (RUET)
 
