@@ -1,2 +1,21 @@
-# Artificial-Intelligence-CSE-3207-RUET
-CSE 3207: Artificial Intelligence This course covers fundamental AI concepts including intelligent agents, search algorithms, knowledge representation, reasoning, and machine learning. Students learn both classical and modern AI techniques with hands-on programming to solve real-world problems.
+# 🤖 Artificial Intelligence – CSE 3207 (RUET)
+
+This repository contains coursework, handwritten notes, and code implementations from the **Artificial Intelligence (CSE-3207)** course at **RUET**.
+
+The course covers:
+- Intelligent Agents & Problem Solving
+- Search Algorithms (BFS, DFS, UCS, A*, Greedy)
+- Knowledge Representation & Reasoning
+- Basic Machine Learning Concepts
+- Hands-on Python implementations and real-world problem solving
+
+## 📁 Contents
+- 📜 AI Algorithms (Python)
+- 📝 Handwritten Notes (Images/PDF)
+- 📚 Assignments and Practice Problems
+
+## 🚀 Getting Started
+Clone this repository and explore the Python code for classic AI algorithms. Use it as a reference or study companion.
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
