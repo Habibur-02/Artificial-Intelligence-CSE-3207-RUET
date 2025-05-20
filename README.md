@@ -12,7 +12,7 @@ This repository contains coursework, handwritten notes, and code implementations
 
 The course covers:
 - Intelligent Agents & Problem Solving
-- Search Algorithms (BFS, DFS, UCS, A*, Greedy) [![Kaggle](https://img.shields.io/badge/Show-Code-Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
+- Search Algorithms (BFS, DFS, UCS, A*, Greedy) [![Kaggle](https://img.shields.io/badge/Show-Full-Code-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/code/habibur02/handle-imabance-datasets)
 
 - Knowledge Representation & Reasoning
 - Basic Machine Learning Concepts
