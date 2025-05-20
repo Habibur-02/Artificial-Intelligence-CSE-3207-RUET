@@ -18,4 +18,4 @@ The course covers:
 Clone this repository and explore the Python code for classic AI algorithms. Use it as a reference or study companion.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Habibur-02/Artificial-Intelligence-CSE-3207-RUET.git
